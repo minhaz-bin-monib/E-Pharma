@@ -1,0 +1,53 @@
+.header{
+    background-color: #10847E;
+}
+
+.header-logo{
+    width: 200px;
+}
+
+
+.text-white{
+    color: white;
+}
+
+.dekhi{
+    background-color: teal;
+}
+
+.j{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/13204946/thumb/1.jpg);
+}
+
+.j2{
+    background-image: url(https://thumbs.dreamstime.com/b/coronavirus-medical-pharma-background-hand-glove-holds-medication-pills-inhibitor-ncov-coronavirus-infection-clinically-171835928.jpg);
+}
+
+
+.j3{
+    background-image: url(https://st.depositphotos.com/2016173/2549/i/600/depositphotos_25496823-stock-photo-colorful-tablets-with-capsules-and.jpg);
+}
+
+
+/* .owl-prev {
+    width: 80px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    margin-left: -20px;
+    display: block !important;
+    border:0px solid black;
+    background-color: none;
+    color: white;
+}
+
+.owl-next {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    right: -5px;
+    display: block !important;
+    border:0px solid black;
+}
+.owl-prev i, .owl-next i {transform : scale(1,6); color: #ccc;} */
