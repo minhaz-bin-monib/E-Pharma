@@ -9,28 +9,46 @@
 
 .text-white{
     color: white;
+    
 }
 
 .dekhi{
     background-color: teal;
 }
 
-.j{
+.special-treatment-background-1{
     background-image: url(https://ak.picdn.net/shutterstock/videos/13204946/thumb/1.jpg);
 }
 
-.j2{
+.special-treatment-background-2{
     background-image: url(https://thumbs.dreamstime.com/b/coronavirus-medical-pharma-background-hand-glove-holds-medication-pills-inhibitor-ncov-coronavirus-infection-clinically-171835928.jpg);
 }
 
 
-.j3{
+.special-treatment-background-3{
     background-image: url(https://st.depositphotos.com/2016173/2549/i/600/depositphotos_25496823-stock-photo-colorful-tablets-with-capsules-and.jpg);
 }
 
+.featured-product-pic-style{
+    border: 5px solid white;
+    border-radius: 10px;
+}
 
-/* .owl-prev {
-    width: 80px;
+
+
+.recomended-lab-test{
+    background-color: #D4E2FA ;
+    
+}
+
+
+.deals-of-the-day{
+    background-color: #FFF2F2;
+}
+
+
+#first-slider .owl-prev {
+    width: 100px;
     height: 100px;
     position: absolute;
     top: 40%;
@@ -41,7 +59,7 @@
     color: white;
 }
 
-.owl-next {
+#first-slider .owl-next {
     width: 100px;
     height: 100px;
     position: absolute;
@@ -50,4 +68,4 @@
     display: block !important;
     border:0px solid black;
 }
-.owl-prev i, .owl-next i {transform : scale(1,6); color: #ccc;} */
+/* .owl-prev i, .owl-next i {transform : scale(1,6); color: #ccc;} */
